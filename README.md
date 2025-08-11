@@ -11,7 +11,7 @@ A responsive and modern personal portfolio website for **Sumana Bhunia**, showca
 - **Social Links Integration**
 
 ## 🖼️ Demo
-![Portfolio Preview][(https://media.licdn.com/dms/image/v2/D5603AQGTrs8e6nBzDg/profile-displayphoto-scale_200_200/B56ZgPP_jvG4AY-/0/1752602509201?e=2147483647&v=beta&t=6DEL9XA2iQxy35I_5mqMB2YzX7S_tH9-C_2WUqRvP9c)](https://fictional-couscous-jx77rjqrg5qcjpjv-5500.app.github.dev/)
+(https://sumana008.github.io/Sumana-Portfolio-/)
 
 ## 👩‍💻 Author
 **Sumana Bhunia**  
